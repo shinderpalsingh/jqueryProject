@@ -1,0 +1,72 @@
+
+.nav-things{                /* items of nav-bar*/
+ margin-top: 10px;
+ font-size: 18px;
+
+}
+.navbar-default{
+ background-color:skyblue;
+ margin-bottom: 0;
+ color: black;
+
+}
+
+#searchInput{     /*it is for search site*/
+ width:150px;
+
+}
+table, td ,tr,th{           /*it is for table*/
+  border: 5px solid black;
+}
+table{
+  width:70%;
+  margin:auto;
+}
+
+
+
+@media (min-width:650px){
+ .images {
+
+  margin:auto;
+  }}
+  #page{
+    margin-top: 40px;
+  }
+  #pagination li{
+    list-style: none;
+    color: white;
+    background-color: grey;
+    float: left;
+    width: 35px;
+    height: 30px;
+  
+  
+
+  }
+
+  #pagination li:hover{
+   
+   background-color: orange;
+    cursor: pointer;
+  }
+  #pagination ul{
+    margin-top: 20px;
+    text-align: center;
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
